@@ -36,13 +36,13 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=YangKaiming1003&theme=tokyonight_duo&hide_border=true" alt="YangKaiming1003" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=accompany1205&theme=tokyonight_duo&hide_border=true" alt="accompany1205" />
   <p align="center"> Stay hungry, Stay foolish 🔥 </p>
 </p>
 
 ## ⚡ Recent GitHub Activity
 <br/>
- <img alt="YangKaiming1003's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YangKaiming1003&custom_title=YangKaiming1003's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+ <img alt="accompany1205's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=accompany1205&custom_title=accompany1205's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
 <br/>
 
 
