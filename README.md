@@ -1,50 +1,111 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Blockchain+%7C%7C+Defi+%7C%7C+NFT+Game+Enthusiastic;React+%7C%7C+Vue+%7C%7C+Python+%7C%7C+Django+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="accompany1205">
-</p>
-<hr/>
+<h1>fashion_star#8163</h1>
 
-
-
-![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Ruby_On_Rails-informational?style=flat&logo=ruby&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
-
-## 🔥 Streak Stats
 
 <p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=accompany1205&theme=tokyonight_duo&hide_border=true" alt="accompany1205" />
-  <p align="center"> Stay hungry, Stay foolish 🔥 </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-## ⚡ Recent GitHub Activity
-<br/>
- <img alt="accompany1205's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=accompany1205&custom_title=accompany1205's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
-<br/>
+<div align="center"> 
+  <h2 align="center"> 👨🏻‍💻 &nbsp;Visitors </h2>
+  <img alibn="center" src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</div>
 
+
+<p align="center">
+  <img src= "https://cutewallpaper.org/27/binary-code-wallpaper-gif/binary-code-gifs-get-the-best-gif-on-giphy.gif" width="100%">
+</p>
+
+---
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```
+Role: Full Stack Developer
+Fields_of_interests:
+  [
+    "Frontend Development",
+    "Backend Development",
+    "Blockchain",
+    "DevOps"
+  ]
+```
+  
+---  
+  
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+
+<div style="width: 100%; display: flex; justify-content: space-between; flex-wrap: wrap">
+  <div>
+    <h2>Front-end</h2>
+    <div>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" width="45" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
+      <img src="https://ui-lib.com/blog/wp-content/uploads/2022/05/nuxtjs-vs-nextjs-comparision.png" alt="nuxtjs" width="70" height="45" />
+      <img src="https://miro.medium.com/max/700/1*iXsCHAHPN7xFAWuuWjE6-Q.png" alt="nextjs" width="45" height="45" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Tailwind_CSS_logo.svg" alt="tailwindcss" width="135" height="45" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
+      <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="bootstrap" width="45" height="45" />0
+      <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="45" />
+    </div>
+  </div>
+  <div>
+    <h2>Back-end</h2>
+    <div>
+      <img src="https://www.3braintechnologies.com/wp-content/uploads/2021/05/asp-logo.png" alt="apsnet" width="45" height="25"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node" width="45" height="45" />
+      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" alt="nestjs" width="70" height="45"/>
+      <img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo-e1588009010920.png" alt="javascript" width="45" height="45" />
+    </div>
+  </div>
+  <div>
+    <h2>Language</h2>
+    <div>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="csharp" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+      <img src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png" alt="solidity" width="70" height="45"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="45" height="45"/>
+      <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="45" />
+      <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="45" />
+    </div>
+  </div>
+  <div>
+    <h2>DBMS</h2>
+    <div>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+      <img src="https://www.computerhope.com/jargon/p/postgresql.jpg" alt="postgresql" width="45" height="45" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
+      <img src="https://user-images.githubusercontent.com/54184905/102911788-9709a000-448d-11eb-9161-bac188f78110.png" alt="dynamodb" width="80" height="45" />
+    </div>
+  </div>
+  <div>
+    <h2>Software Tools & Services</h2>
+    <div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+    </div>
+  </div>
+</div>
+</p>
+
+---
+
+<h2> 📈 &nbsp;My GitHub History!</h2>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=profullstackdeveloper)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 
 
