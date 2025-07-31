@@ -15,7 +15,7 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```
-Role: Full Stack Developer
+Role: Full Stack Blockchain Developer
 Fields_of_interests:
   [
     "Frontend Development",
