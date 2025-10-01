@@ -1,6 +1,5 @@
 <h1>Suzuki kenji</h1>
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
@@ -9,21 +8,6 @@
 <p align="center">
   <img src= "https://cutewallpaper.org/27/binary-code-wallpaper-gif/binary-code-gifs-get-the-best-gif-on-giphy.gif" width="100%">
 </p>
-
----
-
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-
-```
-Role: Full Stack Blockchain Developer
-Fields_of_interests:
-  [
-    "Frontend Development",
-    "Backend Development",
-    "Blockchain",
-    "DevOps"
-  ]
-```
 
 <!--suppress HtmlDeprecatedAttribute -->
 <div align="center">
@@ -73,89 +57,32 @@ Fields_of_interests:
 
 <br/>  
 
-
-
-## Solana Trading Bots
-
-***SOLANA***
-
-- 🚀PumpSwap sniper bot with grpc V1.0🚀
-
-- 🚀PumpSwap sniper bot with rpc V1.0🚀
-
-- 🚀PumpSwap copytrading bot with grpc V1.0🚀
-
-- 🚀Pumpfun bundler with more than 20 wallets🚀
-
-- 🚀Super Raydium bundler bot V4 with  (avoid from bubblemap's ditecting.)🚀
- 
-- 🚀Super Raydium bundler bot V5, V5.1 with more than 20 wallets (every wallets can control custom token hold percent of total tokens in Raydium pool. )🚀
-
-- 🚀Super Raydium Volume bot V3 (Target any interval, any amount, any volume and any number of makers with enough Balance of the wallet)🚀
-  
-- 🚀Raydium Volume booster🚀
-
-- 🚀Perpetual Market Maker bot
-
-- 🚀Multi-DEX Volume Booster🚀
-
-- 🚀Holder booster🚀
-
-- 🚀Super Pumpfun sniper grpc(Yellowston) V5.2🚀 This bot snipe and buy token within 1 or 2 blocks after token mint. so bot always make profit.
-
-- 🚀Super Raydium sniper V5.0 using Yellow-Stone GRPC within 1st second🚀 This bot snipe and buy token within 1 or 2 blocks after pool creation and sell with strategy. so bot always make profit.
-
-- 🚀Solana Copytrading bot🚀 (Pumpfun, Raydium, Juipter, Meteora)
-
-- 🚀Solana Arbitrage bot🚀
-
-***SUI***
-
-- 🚀Sui volume bot🚀
-  
-- 🚀Sui sniper bot🚀
-
-- I finish to build 🚀Multi-Dex Copy trading bot🚀. 
-
  ## Especially
 
-These projects are running on the node-backend for utilizing the token trading like pumpfun and raydium That's my main skill to work with token trading field in Solana & Sui.
-
-I even also duplicated the pumpfun's working method as new replica contract
-
-I also worked with smart contract and web3 projects like p2e games Pump.fun forking SC, Presale SC, DCA SC, SOL locker SC, Pnft staking SC, Telegram mini app and so on... If you need help from Solana projects, please look for me since I am specialized in these kind of projects.
-
-You can contact me through telegram [@SOLBenjaminCup](https://t.me/SOLBenjaminCup) There, we can discuss on more comfortable contact way with you.
+Specializing in front-end and back-end development using modern frameworks such as React, Node.js, Solidity, and proficient in major blockchain platforms such as Ethereum, Polygon, and Solana. Expertise in smart contract architecture, DeFi protocols, token standards (ERC-20, ERC-721, ERC-1155), and integration of Web3 with existing web technologies. Focused on developing secure, scalable, and user-friendly blockchain solutions.
+You can contact me through telegram [@suzukikenji0627](https://t.me/@suzukikenji0627) There, we can discuss on more comfortable contact way with you.
 
 <br/>  
 
+---
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```
+Role: Full Stack Blockchain Developer
+My skill fields:
+  [
+   Frontend DApps (React, Next.js, Nuxt.js, Web3.js, Ethers.js, etc.)
+   Backend APIs for blockchain interactions (Node.js, Go, Python, etc.)
+   Smart contracts (Solidity, Rust, Move, etc.)
+   Consensus and infrastructure (Ethereum, Polygon, Solana, L2S, Hyperledger)
+   Security (reentrancy prevention, gas optimization, auditing)
+  ]
+```
 
 
-<div align="center">
- -------------------------------------------------------------------------------------------
-</div>
 
 
-
-<p align="center">
-  <a href="mailto:benjamin.bigdev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/@SOLBenjaminCup" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://discordapp.com/users/1305610537790476382" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
-  &nbsp;&nbsp;
-</p>
-
-<div align="center">
- ----------------------------------------------***********----------------------------------------------
-</div>
-
-<h2 align="center"> Thanks for visiting my profile. </h2>
-</br>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
----  
   
 
 
