@@ -65,7 +65,7 @@ You can contact me through telegram [@suzukikenji0627](https://t.me/@suzukikenji
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```
-Role: Full Stack Blockchain Developer
+Role: Senior Full Stack Blockchain Developer
 My skill fields:
   [
    Frontend DApps (React, Next.js, Nuxt.js, Web3.js, Ethers.js, etc.)
