@@ -56,7 +56,7 @@
  ## Especially
 
 Specializing in front-end and back-end development using modern frameworks such as React, Node.js, Solidity, and proficient in major blockchain platforms such as Ethereum, Polygon, and Solana. Expertise in smart contract architecture, DeFi protocols, token standards (ERC-20, ERC-721, ERC-1155), and integration of Web3 with existing web technologies. Focused on developing secure, scalable, and user-friendly blockchain solutions.
-You can contact me through telegram [@suzukikenji0627](https://t.me/@suzukikenji0627) There, we can discuss on more comfortable contact way with you.
+You can contact me through telegram There, we can discuss on more comfortable contact way with you.
 
 <br/>  
 
